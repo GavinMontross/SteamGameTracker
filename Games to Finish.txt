@@ -1,12 +1,12 @@
-[x] Spider Man Miles Morales
-[x] Metro Exodus
-[ ] Baldurs Gate 3
-[ ] Half Life 2
-[ ] GTA 4
-[ ] Uncharted Lost Legacy
-[ ] Inscryption
-[ ] Mafia 2
-[ ] Nier Automata
-[ ] Max Payne 3
-[ ] Ghost of Tsushima
-[ ] Indiana Jones and the Great Circle
+Spider Man Miles Morales
+Metro Exodus
+Baldurs Gate 3
+Half Life 2
+GTA 4
+Uncharted Lost Legacy
+Inscryption
+Mafia 2
+Nier Automata
+Max Payne 3
+Ghost of Tsushima
+Indiana Jones and the Great Circle
